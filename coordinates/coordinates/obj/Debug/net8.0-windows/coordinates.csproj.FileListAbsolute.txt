@@ -1,0 +1,16 @@
+C:\Users\SSoni\source\repos\coordinates\coordinates\bin\Debug\net8.0-windows\coordinates.exe
+C:\Users\SSoni\source\repos\coordinates\coordinates\bin\Debug\net8.0-windows\coordinates.deps.json
+C:\Users\SSoni\source\repos\coordinates\coordinates\bin\Debug\net8.0-windows\coordinates.runtimeconfig.json
+C:\Users\SSoni\source\repos\coordinates\coordinates\bin\Debug\net8.0-windows\coordinates.dll
+C:\Users\SSoni\source\repos\coordinates\coordinates\bin\Debug\net8.0-windows\coordinates.pdb
+C:\Users\SSoni\source\repos\coordinates\coordinates\obj\Debug\net8.0-windows\coordinates.Form1.resources
+C:\Users\SSoni\source\repos\coordinates\coordinates\obj\Debug\net8.0-windows\coordinates.csproj.GenerateResource.cache
+C:\Users\SSoni\source\repos\coordinates\coordinates\obj\Debug\net8.0-windows\coordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSoni\source\repos\coordinates\coordinates\obj\Debug\net8.0-windows\coordinates.AssemblyInfoInputs.cache
+C:\Users\SSoni\source\repos\coordinates\coordinates\obj\Debug\net8.0-windows\coordinates.AssemblyInfo.cs
+C:\Users\SSoni\source\repos\coordinates\coordinates\obj\Debug\net8.0-windows\coordinates.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\source\repos\coordinates\coordinates\obj\Debug\net8.0-windows\coordinates.dll
+C:\Users\SSoni\source\repos\coordinates\coordinates\obj\Debug\net8.0-windows\refint\coordinates.dll
+C:\Users\SSoni\source\repos\coordinates\coordinates\obj\Debug\net8.0-windows\coordinates.pdb
+C:\Users\SSoni\source\repos\coordinates\coordinates\obj\Debug\net8.0-windows\coordinates.genruntimeconfig.cache
+C:\Users\SSoni\source\repos\coordinates\coordinates\obj\Debug\net8.0-windows\ref\coordinates.dll
