@@ -1,0 +1,16 @@
+C:\Users\SSoni\source\repos\runaway static\runaway static\bin\Debug\net8.0-windows\runaway static.exe
+C:\Users\SSoni\source\repos\runaway static\runaway static\bin\Debug\net8.0-windows\runaway static.deps.json
+C:\Users\SSoni\source\repos\runaway static\runaway static\bin\Debug\net8.0-windows\runaway static.runtimeconfig.json
+C:\Users\SSoni\source\repos\runaway static\runaway static\bin\Debug\net8.0-windows\runaway static.dll
+C:\Users\SSoni\source\repos\runaway static\runaway static\bin\Debug\net8.0-windows\runaway static.pdb
+C:\Users\SSoni\source\repos\runaway static\runaway static\obj\Debug\net8.0-windows\runaway_static.Form1.resources
+C:\Users\SSoni\source\repos\runaway static\runaway static\obj\Debug\net8.0-windows\runaway static.csproj.GenerateResource.cache
+C:\Users\SSoni\source\repos\runaway static\runaway static\obj\Debug\net8.0-windows\runaway static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSoni\source\repos\runaway static\runaway static\obj\Debug\net8.0-windows\runaway static.AssemblyInfoInputs.cache
+C:\Users\SSoni\source\repos\runaway static\runaway static\obj\Debug\net8.0-windows\runaway static.AssemblyInfo.cs
+C:\Users\SSoni\source\repos\runaway static\runaway static\obj\Debug\net8.0-windows\runaway static.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\source\repos\runaway static\runaway static\obj\Debug\net8.0-windows\runaway static.dll
+C:\Users\SSoni\source\repos\runaway static\runaway static\obj\Debug\net8.0-windows\refint\runaway static.dll
+C:\Users\SSoni\source\repos\runaway static\runaway static\obj\Debug\net8.0-windows\runaway static.pdb
+C:\Users\SSoni\source\repos\runaway static\runaway static\obj\Debug\net8.0-windows\runaway static.genruntimeconfig.cache
+C:\Users\SSoni\source\repos\runaway static\runaway static\obj\Debug\net8.0-windows\ref\runaway static.dll

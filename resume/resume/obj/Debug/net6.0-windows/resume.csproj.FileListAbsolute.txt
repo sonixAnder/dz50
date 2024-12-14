@@ -1,0 +1,16 @@
+C:\Users\student\Desktop\sonix\C# Lesson\resume\resume\bin\Debug\net6.0-windows\resume.exe
+C:\Users\student\Desktop\sonix\C# Lesson\resume\resume\bin\Debug\net6.0-windows\resume.deps.json
+C:\Users\student\Desktop\sonix\C# Lesson\resume\resume\bin\Debug\net6.0-windows\resume.runtimeconfig.json
+C:\Users\student\Desktop\sonix\C# Lesson\resume\resume\bin\Debug\net6.0-windows\resume.dll
+C:\Users\student\Desktop\sonix\C# Lesson\resume\resume\bin\Debug\net6.0-windows\resume.pdb
+C:\Users\student\Desktop\sonix\C# Lesson\resume\resume\obj\Debug\net6.0-windows\resume.Form1.resources
+C:\Users\student\Desktop\sonix\C# Lesson\resume\resume\obj\Debug\net6.0-windows\resume.csproj.GenerateResource.cache
+C:\Users\student\Desktop\sonix\C# Lesson\resume\resume\obj\Debug\net6.0-windows\resume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\sonix\C# Lesson\resume\resume\obj\Debug\net6.0-windows\resume.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\sonix\C# Lesson\resume\resume\obj\Debug\net6.0-windows\resume.AssemblyInfo.cs
+C:\Users\student\Desktop\sonix\C# Lesson\resume\resume\obj\Debug\net6.0-windows\resume.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\sonix\C# Lesson\resume\resume\obj\Debug\net6.0-windows\resume.dll
+C:\Users\student\Desktop\sonix\C# Lesson\resume\resume\obj\Debug\net6.0-windows\refint\resume.dll
+C:\Users\student\Desktop\sonix\C# Lesson\resume\resume\obj\Debug\net6.0-windows\resume.pdb
+C:\Users\student\Desktop\sonix\C# Lesson\resume\resume\obj\Debug\net6.0-windows\resume.genruntimeconfig.cache
+C:\Users\student\Desktop\sonix\C# Lesson\resume\resume\obj\Debug\net6.0-windows\ref\resume.dll
