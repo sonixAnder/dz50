@@ -1,0 +1,16 @@
+C:\Users\SSoni\source\repos\day of the week by date\day of the week by date\bin\Debug\net8.0-windows\day of the week by date.exe
+C:\Users\SSoni\source\repos\day of the week by date\day of the week by date\bin\Debug\net8.0-windows\day of the week by date.deps.json
+C:\Users\SSoni\source\repos\day of the week by date\day of the week by date\bin\Debug\net8.0-windows\day of the week by date.runtimeconfig.json
+C:\Users\SSoni\source\repos\day of the week by date\day of the week by date\bin\Debug\net8.0-windows\day of the week by date.dll
+C:\Users\SSoni\source\repos\day of the week by date\day of the week by date\bin\Debug\net8.0-windows\day of the week by date.pdb
+C:\Users\SSoni\source\repos\day of the week by date\day of the week by date\obj\Debug\net8.0-windows\day_of_the_week_by_date.Form1.resources
+C:\Users\SSoni\source\repos\day of the week by date\day of the week by date\obj\Debug\net8.0-windows\day of the week by date.csproj.GenerateResource.cache
+C:\Users\SSoni\source\repos\day of the week by date\day of the week by date\obj\Debug\net8.0-windows\day of the week by date.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSoni\source\repos\day of the week by date\day of the week by date\obj\Debug\net8.0-windows\day of the week by date.AssemblyInfoInputs.cache
+C:\Users\SSoni\source\repos\day of the week by date\day of the week by date\obj\Debug\net8.0-windows\day of the week by date.AssemblyInfo.cs
+C:\Users\SSoni\source\repos\day of the week by date\day of the week by date\obj\Debug\net8.0-windows\day of the week by date.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\source\repos\day of the week by date\day of the week by date\obj\Debug\net8.0-windows\day of the week by date.dll
+C:\Users\SSoni\source\repos\day of the week by date\day of the week by date\obj\Debug\net8.0-windows\refint\day of the week by date.dll
+C:\Users\SSoni\source\repos\day of the week by date\day of the week by date\obj\Debug\net8.0-windows\day of the week by date.pdb
+C:\Users\SSoni\source\repos\day of the week by date\day of the week by date\obj\Debug\net8.0-windows\day of the week by date.genruntimeconfig.cache
+C:\Users\SSoni\source\repos\day of the week by date\day of the week by date\obj\Debug\net8.0-windows\ref\day of the week by date.dll
