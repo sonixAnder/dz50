@@ -1,0 +1,16 @@
+C:\Users\student\Desktop\sonix\C# Lesson\rectangle\rectangle\bin\Debug\net6.0-windows\rectangle.exe
+C:\Users\student\Desktop\sonix\C# Lesson\rectangle\rectangle\bin\Debug\net6.0-windows\rectangle.deps.json
+C:\Users\student\Desktop\sonix\C# Lesson\rectangle\rectangle\bin\Debug\net6.0-windows\rectangle.runtimeconfig.json
+C:\Users\student\Desktop\sonix\C# Lesson\rectangle\rectangle\bin\Debug\net6.0-windows\rectangle.dll
+C:\Users\student\Desktop\sonix\C# Lesson\rectangle\rectangle\bin\Debug\net6.0-windows\rectangle.pdb
+C:\Users\student\Desktop\sonix\C# Lesson\rectangle\rectangle\obj\Debug\net6.0-windows\rectangle.Form1.resources
+C:\Users\student\Desktop\sonix\C# Lesson\rectangle\rectangle\obj\Debug\net6.0-windows\rectangle.csproj.GenerateResource.cache
+C:\Users\student\Desktop\sonix\C# Lesson\rectangle\rectangle\obj\Debug\net6.0-windows\rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\sonix\C# Lesson\rectangle\rectangle\obj\Debug\net6.0-windows\rectangle.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\sonix\C# Lesson\rectangle\rectangle\obj\Debug\net6.0-windows\rectangle.AssemblyInfo.cs
+C:\Users\student\Desktop\sonix\C# Lesson\rectangle\rectangle\obj\Debug\net6.0-windows\rectangle.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\sonix\C# Lesson\rectangle\rectangle\obj\Debug\net6.0-windows\rectangle.dll
+C:\Users\student\Desktop\sonix\C# Lesson\rectangle\rectangle\obj\Debug\net6.0-windows\refint\rectangle.dll
+C:\Users\student\Desktop\sonix\C# Lesson\rectangle\rectangle\obj\Debug\net6.0-windows\rectangle.pdb
+C:\Users\student\Desktop\sonix\C# Lesson\rectangle\rectangle\obj\Debug\net6.0-windows\rectangle.genruntimeconfig.cache
+C:\Users\student\Desktop\sonix\C# Lesson\rectangle\rectangle\obj\Debug\net6.0-windows\ref\rectangle.dll

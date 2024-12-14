@@ -1,0 +1,16 @@
+C:\Users\SSoni\source\repos\how much is left\how much is left\bin\Debug\net8.0-windows\how much is left.exe
+C:\Users\SSoni\source\repos\how much is left\how much is left\bin\Debug\net8.0-windows\how much is left.deps.json
+C:\Users\SSoni\source\repos\how much is left\how much is left\bin\Debug\net8.0-windows\how much is left.runtimeconfig.json
+C:\Users\SSoni\source\repos\how much is left\how much is left\bin\Debug\net8.0-windows\how much is left.dll
+C:\Users\SSoni\source\repos\how much is left\how much is left\bin\Debug\net8.0-windows\how much is left.pdb
+C:\Users\SSoni\source\repos\how much is left\how much is left\obj\Debug\net8.0-windows\how_much_is_left.Form1.resources
+C:\Users\SSoni\source\repos\how much is left\how much is left\obj\Debug\net8.0-windows\how much is left.csproj.GenerateResource.cache
+C:\Users\SSoni\source\repos\how much is left\how much is left\obj\Debug\net8.0-windows\how much is left.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSoni\source\repos\how much is left\how much is left\obj\Debug\net8.0-windows\how much is left.AssemblyInfoInputs.cache
+C:\Users\SSoni\source\repos\how much is left\how much is left\obj\Debug\net8.0-windows\how much is left.AssemblyInfo.cs
+C:\Users\SSoni\source\repos\how much is left\how much is left\obj\Debug\net8.0-windows\how much is left.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\source\repos\how much is left\how much is left\obj\Debug\net8.0-windows\how much is left.dll
+C:\Users\SSoni\source\repos\how much is left\how much is left\obj\Debug\net8.0-windows\refint\how much is left.dll
+C:\Users\SSoni\source\repos\how much is left\how much is left\obj\Debug\net8.0-windows\how much is left.pdb
+C:\Users\SSoni\source\repos\how much is left\how much is left\obj\Debug\net8.0-windows\how much is left.genruntimeconfig.cache
+C:\Users\SSoni\source\repos\how much is left\how much is left\obj\Debug\net8.0-windows\ref\how much is left.dll
